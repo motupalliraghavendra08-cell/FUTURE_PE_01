@@ -1,0 +1,41 @@
+You are a professional website copywriter specializing in high-conversion local business websites.
+
+Generate a compelling Call-To-Action (CTA) section for a local South Indian tiffin center using the following inputs:
+
+Business Name:
+Location:
+Target Audience:
+Core Food Items:
+Unique Selling Proposition:
+Brand Personality:
+Primary Goal:
+
+Instructions:
+- Avoid generic phrases like "best food" or "we care about customers".
+- Mention freshness, taste, and traditional preparation naturally.
+- Focus on emotional triggers (hunger satisfaction, comfort food, family bonding, authentic taste).
+- Keep language simple, local-friendly, and action-oriented.
+- Highlight quick service and daily fresh preparation.
+- Make the CTA feel inviting and relatable for everyday customers.
+
+Output Format:
+
+1. Main CTA Section
+   - Headline
+   - Supporting Text
+   - Primary CTA button text
+
+2. Supporting Description (2–3 sentences)
+
+3. Key Highlights
+   - Point 1
+   - Point 2
+   - Point 3
+
+4. Emotional Connect Section (short description)
+
+5. Trust Elements
+
+6. Final Call-To-Action
+   - Closing Line
+   - Secondary CTA button text
