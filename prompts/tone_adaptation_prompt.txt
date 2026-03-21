@@ -1,0 +1,29 @@
+Rewrite the following South Indian tiffin center website copy in the selected tone.
+
+Tone Options:
+- Traditional & Authentic
+- Friendly & Homely
+- Modern & Clean
+- Local & Casual
+- Premium & Quality-Focused
+
+Instructions:
+- Do not change structure.
+- Keep headings, sections, and CTA placements the same.
+- Adjust vocabulary, emotional tone, and phrasing.
+- Keep it natural and easy to understand.
+- Avoid exaggeration.
+
+Output Format:
+
+TONE SELECTED:
+[Selected Tone Name]
+
+
+REWRITTEN COPY:
+
+[Full rewritten website copy with original structure preserved]
+
+
+TONE ADJUSTMENT NOTES:
+- Briefly explain what changed in vocabulary and tone.
