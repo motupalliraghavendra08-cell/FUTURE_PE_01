@@ -1,0 +1,24 @@
+You are a conversion-focused website copywriter.
+
+Generate detailed services page content for the following South Indian tiffin center:
+
+Business Name:
+Location:
+Target Audience:
+Core Food Items:
+Unique Strengths:
+Tone:
+
+For each menu item include:
+
+1. Item Name
+2. Who It’s For
+3. What’s Included
+4. Key Highlights
+5. Why Choose This Tiffin Center
+6. Order/Visit CTA line
+
+Keep it simple, warm, and appealing.
+Avoid repetition across items.
+Use natural and easy-to-understand language suitable for a local food business.
+Focus on freshness, taste, and traditional preparation.
